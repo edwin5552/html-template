@@ -1,1 +1,63 @@
+/* ============================
+CSS v0.8
+Edwin
+MIT License
+============================*/
+/* ============================
+Reset style
+============================*/
+body {
+	font-size: 16px;
+	font-weight: 400;
+	color: #383838;
+}
+button,
+span,
+a { display: inline-block; }
+a,
+a:hover,
+a:focus {
+	text-decoration: none;
+	outline: none;
+}
+button,
+button:hover,
+button:focus {
+	outline: none;
+}
+h1, h2, h3, h4, h5, h6 { font-weight: 700; }
+p { font-weight: 400; }
+img { max-width: 100%; }
 
+/* ============================
+Bootstrap Reset
+============================*/
+.btn:focus,
+button:focus { box-shadow: none; }
+.form-control { height: auto; }
+.form-control:focus { box-shadow: none; }
+
+/* ============================
+Header
+============================*/
+
+
+
+/* ============================
+Main style
+============================*/
+
+
+
+
+/* ============================
+Footer
+============================*/
+
+
+
+
+
+/* ============================
+Media Queries
+============================*/
