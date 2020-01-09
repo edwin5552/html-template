@@ -18,3 +18,7 @@ Templates/
         ├── ajax-loader.png
         └── owl.video.play.png
 ```
+
+## Copyright and license
+
+Code and documentation copyright 2019 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
