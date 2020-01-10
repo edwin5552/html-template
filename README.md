@@ -8,7 +8,7 @@ Templates/
     │   ├── bootstrap.min.css
     │   ├── fontawesome.min.css
     │   ├── owl.carousel.css
-    │   ├── style.css
+    │   └── style.css
     ├── js/
     │   ├── jquery-3.4.1.min
     │   ├── bootstrap.bundle.min.js
