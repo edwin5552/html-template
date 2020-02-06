@@ -18,6 +18,22 @@ Templates/
         ├── ajax-loader.png
         └── owl.video.play.png
 ```
+## CSS Plugins
+
+#### Bootstrap
+- Bootstrap 4.4.1 (URL) - https://getbootstrap.com/
+- Bootstrap 4.4.1 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+
+#### Fontawesome
+- Fontawesome 5.12.1 (URL) - https://fontawesome.com/
+- Fontawesome 5.12.1 (CDN) - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js
+
+## javaScript / jQuery Plugins
+
+#### jQuery
+- jQuery 3.4.1 (URL) - https://jquery.com/
+- jQuery 3.4.1 (Google CDN) - https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+
 
 ## Copyright and license
 
