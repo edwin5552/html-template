@@ -21,4 +21,4 @@ Templates/
 
 ## Copyright and license
 
-Code and documentation copyright 2019 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2020 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
