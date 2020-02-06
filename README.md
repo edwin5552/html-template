@@ -18,17 +18,20 @@ Templates/
         ├── ajax-loader.png
         └── owl.video.play.png
 ```
-## CSS Plugins
+## CSS / javaScript Plugins
 
 #### Bootstrap
 - Bootstrap 4.4.1 (URL) - https://getbootstrap.com/
-- Bootstrap 4.4.1 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+- Bootstrap ```CSS``` 4.4.1 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+- Bootstrap `JS`  4.4.1 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
 
 #### Fontawesome
 - Fontawesome 5.12.1 (URL) - https://fontawesome.com/
 - Fontawesome 5.12.1 (CDN) - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js
 
-## javaScript / jQuery Plugins
+#### Owl Carousel 2
+- Owl Carousel 2 2.3.4 (URL) - https://owlcarousel2.github.io/OwlCarousel2/
+- Owl Carousel 2 `CSS` 2.3.4 (CDN) - https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
 
 #### jQuery
 - jQuery 3.4.1 (URL) - https://jquery.com/
