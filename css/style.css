@@ -1,18 +1,28 @@
 /* ============================
-CSS v0.8
-Edwin
-MIT License
+Project Name: Project 1
+Version: 1.0.5
+Author: Edwin
+Last Update: 08/05/2020
+License: GNU General Public License v2 or later
 ============================*/
+
+/* ============================
+Variables
+============================*/
+:root {}
+
 /* ============================
 Reset style
 ============================*/
+html {
+	scroll-behavior: smooth;
+}
 body {
 	font-size: 16px;
 	font-weight: 400;
 	color: #383838;
 }
 button,
-span,
 a { display: inline-block; }
 a,
 a:hover,
@@ -30,34 +40,42 @@ p { font-weight: 400; }
 img { max-width: 100%; }
 
 /* ============================
-Bootstrap Reset
+Bootstrap / User Reset
 ============================*/
 .btn:focus,
 button:focus { box-shadow: none; }
 .form-control { height: auto; }
 .form-control:focus { box-shadow: none; }
+.ul-unstyle {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
 
 /* ============================
-Header
+# Header
 ============================*/
 
 
 
 /* ============================
-Main style
+# Main style
 ============================*/
 
 
 
-
 /* ============================
-Footer
+# Footer
 ============================*/
 
 
 
+/* ============================
+# Inner pages
+============================*/
+
 
 
 /* ============================
-Media Queries
+# Media Queries
 ============================*/
