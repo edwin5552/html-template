@@ -1,8 +1,10 @@
 /* ============================
-Project Name: Project 1
-Version: 1.0.5
+Theme Name: Theme Name
+Version: 1.2
+Description: Theme Description
 Author: Edwin
-Last Update: 08/05/2020
+First Update: 18/10/2020
+Last Update: 18/10/2020
 License: GNU General Public License v2 or later
 ============================*/
 
@@ -18,6 +20,7 @@ html {
 	scroll-behavior: smooth;
 }
 body {
+	font-family: sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	color: #383838;
