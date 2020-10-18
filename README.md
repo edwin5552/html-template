@@ -1,5 +1,5 @@
 # html-template
-Basic HTML template with bootstrap framework
+Basic HTML Template with [Bootstrap](https://getbootstrap.com/) Framework
 
 ```text
 Templates/
@@ -11,7 +11,8 @@ Templates/
     │   └── style.css
     ├── js/
     │   ├── jquery-3.4.1.min
-    │   ├── bootstrap.bundle.min.js
+    │   ├── bootstrap.min.js
+    │   ├── popper.min.js
     │   ├── owl.carousel.min
     │   └── script.js
     └── img/
@@ -21,22 +22,20 @@ Templates/
 ## CSS / javaScript Plugins
 
 #### Bootstrap
-- Bootstrap 4.5.0 (URL) - https://getbootstrap.com/
-- Bootstrap ```CSS``` 4.5.0 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css
+- Bootstrap v4.5.3 - https://getbootstrap.com/
 
 #### Fontawesome
-- Fontawesome 5.12.1 (URL) - https://fontawesome.com/
-- Fontawesome 5.12.1 (CDN) - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js
+- Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
+
+#### Popper JS
+- Popper JS v2.5.3 - https://popper.js.org/
 
 #### Owl Carousel 2
-- Owl Carousel 2 2.3.4 (URL) - https://owlcarousel2.github.io/OwlCarousel2/
-- Owl Carousel 2 `CSS` 2.3.4 (CDN) - https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+- Owl Carousel 2 v2.3.4 - https://owlcarousel2.github.io/OwlCarousel2/
 
 #### jQuery
-- jQuery 3.4.1 (URL) - https://jquery.com/
-- jQuery 3.4.1 (Google CDN) - https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+- jQuery v3.5.1 (URL) - https://jquery.com/
 
 
 ## Copyright and license
-
 Code and documentation copyright 2020 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
