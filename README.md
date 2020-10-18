@@ -1,5 +1,5 @@
 # html-template
-Basic HTML template with bootstrap
+Basic HTML template with bootstrap framework
 
 ```text
 Templates/
