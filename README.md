@@ -23,7 +23,6 @@ Templates/
 #### Bootstrap
 - Bootstrap 4.5.0 (URL) - https://getbootstrap.com/
 - Bootstrap ```CSS``` 4.5.0 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css
-- Bootstrap `JS`  4.5.0 (CDN) - https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js
 
 #### Fontawesome
 - Fontawesome 5.12.1 (URL) - https://fontawesome.com/
