@@ -3,18 +3,18 @@ Theme Name: Theme Name
 Version: 1.2
 Description: Theme Description
 Author: Edwin
-First Update: 18/10/2020
-Last Update: 18/10/2020
+First Update: 01/12/2020
+Last Update: 01/12/2020
 License: GNU General Public License v2 or later
 ============================*/
 
 /* ============================
-Variables
+# VARIABLES
 ============================*/
 :root {}
 
 /* ============================
-Reset style
+# RESET STYLES
 ============================*/
 html {
 	scroll-behavior: smooth;
@@ -43,10 +43,10 @@ p { font-weight: 400; }
 img { max-width: 100%; }
 
 /* ============================
-Bootstrap / User Reset
+# BOOTSTRAP / USER RESET
 ============================*/
-.btn:focus,
-button:focus { box-shadow: none; }
+button:focus,
+.btn:focus { box-shadow: none; }
 .form-control { height: auto; }
 .form-control:focus { box-shadow: none; }
 .ul-unstyle {
@@ -56,29 +56,29 @@ button:focus { box-shadow: none; }
 }
 
 /* ============================
-# Header
+# HEADER
 ============================*/
 
 
 
 /* ============================
-# Main style
+# HOME PAGE
 ============================*/
 
 
 
 /* ============================
-# Footer
+# FOOTER
 ============================*/
 
 
 
 /* ============================
-# Inner pages
+# INNER PAGES
 ============================*/
 
 
 
 /* ============================
-# Media Queries
+# MEDIA QUERIES
 ============================*/
