@@ -22,7 +22,7 @@ Templates/
 ## CSS / javaScript Plugins
 
 #### Bootstrap
-- Bootstrap v4.5.3 - https://getbootstrap.com/
+- Bootstrap v4.6.0 - https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
 #### Fontawesome
 - Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
