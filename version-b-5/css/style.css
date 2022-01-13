@@ -1,10 +1,10 @@
 /* ============================
 Theme Name: Theme Name
-Version: 5.1.0
+Version: 5.1.1
 Description: Theme Description
 Author: Edwin
 First Update: 26/10/2021
-Last Update: 08/01/2022
+Last Update: 13/01/2022
 License: GNU General Public License v2 or later
 ============================*/
 
@@ -48,7 +48,8 @@ img { max-width: 100%; }
 /* ============================
 # BOOTSTRAP / USER RESET
 ============================*/
-.container { --bs-gutter-x: 15px; }
+.container,
+.container-fluid { --bs-gutter-x: 15px; }
 .row { --bs-gutter-x: 30px; }
 button:focus,
 .btn:focus { box-shadow: none; }
