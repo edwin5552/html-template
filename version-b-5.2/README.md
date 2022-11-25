@@ -10,9 +10,8 @@ Templates/
     │   ├── owl.carousel.css
     │   └── style.css
     ├── js/
-    │   ├── jquery-3.4.1.min
-    │   ├── bootstrap.min.js
-    │   ├── popper.min.js
+    │   ├── jquery-3.6.1.min
+    │   ├── bootstrap.bundle.min.js
     │   ├── owl.carousel.min
     │   └── script.js
     └── img/
@@ -22,20 +21,22 @@ Templates/
 ## CSS / javaScript Plugins
 
 #### Bootstrap
-- Bootstrap v4.6.0 - https://getbootstrap.com/docs/4.6/getting-started/introduction/
+- Bootstrap v5.2.3 - https://getbootstrap.com/
 
 #### Fontawesome
 - Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
-
-#### Popper JS
-- Popper JS v2.5.3 - https://popper.js.org/
 
 #### Owl Carousel 2
 - Owl Carousel 2 v2.3.4 - https://owlcarousel2.github.io/OwlCarousel2/
 
 #### jQuery
-- jQuery v3.5.1 (URL) - https://jquery.com/
+- jQuery v3.6.1 - https://jquery.com/
 
+#### Animate.css
+- Animate.css v4.1.1 - https://animate.style/
+
+#### WOW.js
+- WOW - https://wowjs.uk/
 
 ## Copyright and license
 Code and documentation copyright 2020 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
