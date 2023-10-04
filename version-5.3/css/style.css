@@ -1,0 +1,79 @@
+/* ============================
+Theme Name: Theme Name
+Version: 5.3
+Description: Theme Description
+Author: Edwin
+First Update: 04/10/2023
+Last Update: 04/10/2023
+License: GNU General Public License v2 or later
+============================*/
+
+/* ============================
+# VARIABLES
+============================*/
+:root {
+	--font: sans-serif;
+	--color: #000000;
+}
+
+/* ============================
+# RESET STYLES
+============================*/
+html {
+	scroll-behavior: smooth;
+}
+body {
+	font-family: var(--font);
+	font-size: 16px;
+	font-weight: 400;
+	color: var(--color);
+}
+button,
+a { display: inline-block; }
+a,
+a:hover,
+a:focus {
+	text-decoration: none;
+	outline: none;
+}
+button,
+button:hover,
+button:focus {
+	outline: none;
+}
+h1, h2, h3, h4, h5, h6 { font-weight: 700; }
+p { font-weight: 400; }
+img { max-width: 100%; }
+
+/* ============================
+# BOOTSTRAP / USER RESET
+============================*/
+button:focus,
+.btn:focus { box-shadow: none; }
+.form-control { height: auto; }
+.form-control:focus { box-shadow: none; }
+.form-check-input:focus { box-shadow: none; }
+
+/* ============================
+# HEADER
+============================*/
+
+
+
+/* ============================
+# HOME PAGE
+============================*/
+
+
+
+/* ============================
+# FOOTER
+============================*/
+
+
+
+/* ============================
+# INNER PAGES
+============================*/
+
+
