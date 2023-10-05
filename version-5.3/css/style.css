@@ -12,7 +12,7 @@ License: GNU General Public License v2 or later
 # VARIABLES
 ============================*/
 :root {
-	--font: sans-serif;
+	--font: 'Roboto', sans-serif;
 	--color: #000000;
 }
 
@@ -50,8 +50,10 @@ img { max-width: 100%; }
 ============================*/
 button:focus,
 .btn:focus { box-shadow: none; }
-.form-control { height: auto; }
-.form-control:focus { box-shadow: none; }
+.form-control,
+.form-select { height: auto; }
+.form-control:focus,
+.form-select { box-shadow: none; }
 .form-check-input:focus { box-shadow: none; }
 
 /* ============================
