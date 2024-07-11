@@ -1,4 +1,5 @@
 # html-template
+
 Basic HTML Template with [Bootstrap](https://getbootstrap.com/) Framework
 
 ```text
@@ -19,23 +20,29 @@ Templates/
         ├── ajax-loader.png
         └── owl.video.play.png
 ```
+
 ## CSS / javaScript Plugins
 
 #### Bootstrap
-- Bootstrap v4.6.0 - https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+-   Bootstrap v4.6.0 - https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
 #### Fontawesome
-- Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
+
+-   Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
 
 #### Popper JS
-- Popper JS v2.5.3 - https://popper.js.org/
+
+-   Popper JS v2.5.3 - https://popper.js.org/
 
 #### Owl Carousel 2
-- Owl Carousel 2 v2.3.4 - https://owlcarousel2.github.io/OwlCarousel2/
+
+-   Owl Carousel 2 v2.3.4 - https://owlcarousel2.github.io/OwlCarousel2/
 
 #### jQuery
-- jQuery v3.5.1 (URL) - https://jquery.com/
 
+-   jQuery v3.5.1 (URL) - https://jquery.com/
 
 ## Copyright and license
+
 Code and documentation copyright 2020 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
