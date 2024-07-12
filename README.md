@@ -13,11 +13,11 @@ Templates/
     │   ├── bootstrap.bundle.min.js
     │   └── script.js
     └── img/
-	 	└── favicons/
-			├── favicon-16x16.png
-			├── favicon-32x32.png
-			├── apple-touch-icon.png
-        	└── favicon.ico
+        └── favicons/
+	├── favicon-16x16.png
+	├── favicon-32x32.png
+	├── apple-touch-icon.png
+	└── favicon.ico
 ```
 
 ## CSS / javaScript Plugins
