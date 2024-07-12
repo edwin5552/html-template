@@ -1,4 +1,4 @@
-# html-template
+# HTML Template (Bootstrap Version)
 
 Basic HTML Template with [Bootstrap](https://getbootstrap.com/) Framework
 
@@ -7,42 +7,29 @@ Templates/
     ├── index.html
     ├── css/
     │   ├── bootstrap.min.css
-    │   ├── fontawesome.min.css
-    │   ├── owl.carousel.css
     │   └── style.css
     ├── js/
-    │   ├── jquery-3.4.1.min
-    │   ├── bootstrap.min.js
-    │   ├── popper.min.js
-    │   ├── owl.carousel.min
+    │   ├── jquery-3.7.1.min
+    │   ├── bootstrap.bundle.min.js
     │   └── script.js
     └── img/
-        ├── ajax-loader.png
-        └── owl.video.play.png
+	 	└── favicons/
+			├── favicon-16x16.png
+			├── favicon-32x32.png
+			├── apple-touch-icon.png
+        	└── favicon.ico
 ```
 
 ## CSS / javaScript Plugins
 
 #### Bootstrap
 
--   Bootstrap v4.6.0 - https://getbootstrap.com/docs/4.6/getting-started/introduction/
-
-#### Fontawesome
-
--   Fontawesome v4.7.0 - https://fontawesome.com/v4.7.0/
-
-#### Popper JS
-
--   Popper JS v2.5.3 - https://popper.js.org/
-
-#### Owl Carousel 2
-
--   Owl Carousel 2 v2.3.4 - https://owlcarousel2.github.io/OwlCarousel2/
+-   Bootstrap v5.3.3 - https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 #### jQuery
 
--   jQuery v3.5.1 (URL) - https://jquery.com/
+-   jQuery v3.7.1 (URL) - https://jquery.com/
 
 ## Copyright and license
 
-Code and documentation copyright 2020 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2024, version 5.3.3 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
