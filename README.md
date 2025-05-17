@@ -24,7 +24,7 @@ Templates/
 
 #### Bootstrap
 
--   Bootstrap v5.3.3 - https://getbootstrap.com/docs/5.3/getting-started/introduction/
+-   Bootstrap - https://getbootstrap.com/
 
 #### jQuery
 
@@ -32,4 +32,4 @@ Templates/
 
 ## Copyright and license
 
-Code and documentation copyright 2024, version 5.3.3 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2025, version 5.3.6 and code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
